@@ -1,1 +1,160 @@
-![WhatsApp Görsel 2024-10-21 saat 17 48 22_37d65478](https://github.com/user-attachments/assets/b3d3c10f-ab0b-4458-945b-9cf0f9998f2b)
+
+<!DOCTYPE html>
+<html> 
+<head>
+ <meta charset="utf-8">
+ <title>Emin Güntürk ödev</title>
+</head>
+<style>
+    body{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    text-align: left;
+    background-color: #7D9C9F;
+    padding: 0;
+    margin: 0;
+    font-size: x-large;
+
+    
+}
+    p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    text-align: center;
+    background-color: rgb(218, 78, 22);
+}
+
+header#başlık{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #BDD8DA;
+    color: black;
+    padding: 20px ;
+    text-align: center;
+    
+ 
+    
+}
+header#dipnot{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #BDD8DA;
+    color: black;
+    padding: 20px ;
+    text-align: center;
+    
+ 
+    
+}
+header img{
+    height: 250px;
+    width: 250px;
+    border-radius: 200px;
+    margin: 25px;
+    border: 5px solid black;
+}
+header h3{
+    display: inline;
+    text-align: center;
+}
+nav a {
+    margin: 15px ;
+    color: black;
+    
+}
+
+div#Hakkımda{
+    display: block;
+    margin: 20px;
+    padding: 20px;
+    border: 5px rgb(50, 54, 50);
+    background-color: #DFEFF0;
+   border-radius: 10px;
+    
+}
+div#Projeler{
+    display: block;
+    margin: 20px;
+    padding: 20px;
+    border: 5px rgb(50, 54, 50);
+    background-color: #DFEFF0;   
+    border-radius: 10px;
+}
+div#iletişim{
+    display: block;
+    margin: 20px;
+    padding: 20px;
+    border: 5px rgb(50, 54, 50);
+    background-color: #DFEFF0;
+    
+    border-radius: 10px;
+}
+div#yetenekler{
+    display: block;
+    margin: 20px;
+    padding: 20px;
+    border: 5px rgb(50, 54, 50);
+    background-color: #DFEFF0;
+    
+    border-radius: 10px;
+}
+ div h1 {
+    color: rgb(207, 72, 9);
+
+}
+div a:visited{
+    color: rgb(163, 53, 173);
+}
+</style>
+<body>
+    
+<header id="başlık">
+            <h1>Mehmet Emin Güntürk</h1>
+            <header>
+                <img src="![WhatsApp Görsel 2024-10-21 saat 17 48 22_37d65478](https://github.com/user-attachments/assets/b3d3c10f-ab0b-4458-945b-9cf0f9998f2b)" alt="">
+            </header>
+
+            <nav>
+     <a href="https://gunturk.me/"><h3>Hakkımda</h3></a>
+     <a href="https://github.com/Emingntrk?tab=repositories"><h3>Projeler</h3> </a>
+     <a href="https://gunturk.me/"><h3>iletişim</h3></a>
+</nav>
+</header>
+
+<main>
+    <div id="Hakkımda">
+    <h1>Hakkımda</h1>
+    <h3>
+    Merhabalar ben Mehmet Emin Güntürk, bilgisayar mühendisliği 2. sınıf öğrencisiyim ve oyun geliştirme ve karakter hikayesi yazarlığı üzerinde çalışıyorum.
+    yazılım hakkındaki çalışmlarıma aşağıdan erişim sağlayabilirsiniz oyun geliştirme ve karakter hikayeleri ile ilgileniyorsanız mailim üzerinden bana ulaşabilirsiniz.
+</h3>
+</div>
+
+
+
+<div id="Projeler">
+<h1>Projeler</h1>
+<ul>
+    <li>Web Sayfası - <a href="https://github.com/Emingntrk/emingntrk.github.io">1.Proje</a></li>
+    <li>C-Calculator - <a href="https://github.com/Emingntrk/oil-earning-or-yield-calculate">2.Proje</a></li>
+    <li>C-First try - <a href="https://github.com/Emingntrk/first-try-1">3.Proje</a></li>
+</ul>
+</div>
+<div id="yetenekler">
+<h1>Yetenekler</h1>
+    <ul>
+        <li>C - C#</li>
+        <li>HTML - CSS</li>
+        <li>Game Develop</li>
+        <li>Character Story Writer</li>
+    </ul>
+</div>
+<div id="iletişim">
+<h1>İletişim</h1>
+<h4>bana ulaşmak için <a href="emingntrk2025@gmail.com">emingntrk2025@gmail.com</a></h4>
+</div>
+</main>
+
+<header id="dipnot">
+    <h4>© 2024 Mehmet Emin Güntürk. Tüm hakkları saklıdır.</h4>
+</header>
+</body>
+</html>
