@@ -26,6 +26,15 @@ header#başlık{
  
     
 }
+h1#başlık{
+    display: block;
+    margin: 20px;
+    padding: 20px;
+    border: 5px rgb(50, 54, 50);
+    background-color: #BDD8DA;   
+    border-radius: 10px;
+}
+
 header#dipnot{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-color: #BDD8DA;
@@ -103,7 +112,7 @@ div a:visited{
 }
 h1 {
     cursor: pointer;
-    background-color: #BDD8DA;
+    background-color: #DFEFF0;
     padding: 10px;
     border-radius: 5px;
 }
@@ -119,7 +128,7 @@ h1 {
     transform: translate(-50%, -50%);
     padding: 20px;
     background-color: #DFEFF0;
-    border: 2px solid #BDD8DA;
+    border: 2px solid #DFEFF0;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     z-index: 1000;
